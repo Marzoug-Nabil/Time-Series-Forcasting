@@ -2,7 +2,14 @@
 
 ## Introduction
 
-This repository contains a project on time series forecasting using Facebook Prophet. Facebook Prophet is an open-source forecasting tool built by Facebook's Core Data Science team, and it is designed to make time series forecasting accessible to non-experts. With its intuitive interface and powerful performance, Prophet has gained popularity in the data science community for forecasting various types of time series data.
+This repository contains a project on hourly energy consumption forecasting using XGBoost. XGBoost is an efficient and popular machine learning algorithm known for its high performance in regression and classification tasks. In this project, we explore how XGBoost can be utilized to forecast hourly energy consumption based on historical data.
+
+## Dataset
+
+The dataset used in this project contains hourly energy consumption data. The data includes features such as date, time, weather conditions, and previous energy consumption values.
+
+**Dataset Source**: [Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+
 
 ## Getting Started
 
