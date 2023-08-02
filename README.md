@@ -11,4 +11,4 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Marzoug-Nabil/Time-Series-Forcasting.git
